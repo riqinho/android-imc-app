@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "riqinho.com.github.imc_app"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "riqinho.com.github.imc_app"
